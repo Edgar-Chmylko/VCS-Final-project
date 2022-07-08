@@ -30,7 +30,8 @@
     color: #1c2237;
 }
 .pricing__container-card:nth-child(2) .pricing__container-cardInfo button{
-    background-color: #dd9d14
+    background-color: #dd9d14;
+    
 }
 .pricing__container-card:nth-child(2) .pricing__container-cardInfo button:hover {
     background-color: #f2c721;
